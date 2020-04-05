@@ -1,0 +1,5 @@
+config/ReadPropertyFile.class
+tests/PostMethods.class
+tests/GetMethods.class
+tests/BaseClass.class
+RestAssuredAPI/RestAssuredAPI/AppTest.class

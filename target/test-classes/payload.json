@@ -1,0 +1,12 @@
+{
+  "firstname" : "James",
+  "lastname" : "Brown",
+  "totalprice" : 1000,
+  "depositpaid" : true,
+  "bookingdates" : {
+    "checkin" : "2020-05-01",
+    "checkout" : "2020-05-020"
+  },
+  "additionalneeds" : "Breakfast",
+  "additionalneeds" : "Non-Smoking Room"
+}
